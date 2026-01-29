@@ -1,0 +1,3 @@
+[submodule "3.gpu"]
+	path = 3.gpu
+	url = https://github.com/mzamith-ufrrj/bootcamp-2026-LNCC-CUDA
